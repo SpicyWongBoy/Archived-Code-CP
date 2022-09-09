@@ -1,0 +1,3 @@
+Concept of DP is to remember each value already iterated through.
+For example, going through recursively requires setting the vector<vector<data>> of the DP to values of -1, turning it into another number when found.
+using vector.assign(n,-1) assigns all the values of the DP to -1. In addition to vector<int>(n,-1) which does the same but does not require naming a variable.
