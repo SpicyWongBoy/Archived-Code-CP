@@ -1,0 +1,3 @@
+things to remember
+- 1-indexing for searches and ufds
+- 2-remember for multiple testcases to reset 
